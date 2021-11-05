@@ -1,5 +1,5 @@
 *.dll
-*.EXE
+*.exe
 [Oo]bj/
 [Bb]in/
 [Pp]ackages/
